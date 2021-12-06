@@ -5,7 +5,6 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -26,10 +25,6 @@
 - Conclusion 4 : Loans applied for purpose as Small Business needs to be scrutinised carefully & should accept more loan with term 36months rather than 60months
 
 
-## Technologies Used
-- library - version 3.0
-
-
 ## Acknowledgements
 - This project was based on Exploratory Data Analysis
 
@@ -38,5 +33,5 @@
 - Created by [@SreevalliK & @Sandhya-Girish] - feel free to contact me!
 
 
-# This project is open source and available under https://github.com/SreevalliK/LendingClubCaseStudy
+This project is open source and available under https://github.com/SreevalliK/LendingClubCaseStudy
 
