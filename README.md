@@ -1,5 +1,5 @@
 # Lending Club
-> There is a need to analyse the provided data for Lending Clubd and find the factors which result into the category of ‘Charged-Off’ customers or defaulters. These factors will help the bank decide regarding the action taken on each applicant.
+> There is a need to analyse the provided data for Lending Club and find the factors which result into the category of ‘Charged-Off’ customers or defaulters. These factors will help the bank decide regarding the action taken on each applicant.
 
 
 
